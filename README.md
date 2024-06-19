@@ -1,2 +1,4 @@
 # internship_tasks
- Full Stack Web Development Projects
+PAWS N'PURR
+responsive landing page using html css and javascript
+Full Stack Web Development Projects
